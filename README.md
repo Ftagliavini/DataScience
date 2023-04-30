@@ -19,3 +19,10 @@ The titles.csv contains more than 6k titles, witch 15 columns containing:
    tmdb_popularity: Popularity on TMDB.
    tmdb_score: Score on TMDB.
    
+The credits.csv contains over 81k credits of actors and directors, with 5 columns containing:
+
+   person_ID: The person ID on JustWatch.
+   id: The title ID on JustWatch.
+   name: The actor or director's name.
+   character_name: The character name.
+   role: ACTOR or DIRECTOR.
